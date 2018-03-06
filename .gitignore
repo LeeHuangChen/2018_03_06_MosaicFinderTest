@@ -1,0 +1,7 @@
+venv
+.git
+.idea
+Results
+GeneratedFiles
+*.pyc
+configuration.py
